@@ -10,4 +10,4 @@ _self project_
 Coggle을 선택
 
 **Theme**
-1. U-net을 이용한 이미지의 노이즈제거 및 오랜된 이미지 복원
+1.AutoEncoder를 이용한 이미지의 노이즈제거 및 오랜된 이미지 복원
