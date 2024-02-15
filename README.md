@@ -22,4 +22,9 @@ Coggle을 선택
 5. 실제 사진으로 test성공하기
 6. django 공부
 7. 웹에 모델을 연결하고 웹으로 부터 test input을 받기
-8. 
+
+
+*idea*
+1. 적절한 데이터셋 선택 (사이즈, 컬러 여부, 흑백을 컬러로, 훈련 적합성),
+2. (파이토치 데이터셋)[https://pytorch.org/vision/stable/datasets.html]
+3. 
