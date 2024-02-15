@@ -20,3 +20,6 @@ Coggle을 선택
 3. layer 조절로 더 좋은 성능 내기
 4. 여러가지 cutumizing 진행하기
 5. 실제 사진으로 test성공하기
+6. django 공부
+7. 웹에 모델을 연결하고 웹으로 부터 test input을 받기
+8. 
