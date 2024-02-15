@@ -27,4 +27,4 @@ Coggle을 선택
 *idea*
 1. 적절한 데이터셋 선택 (사이즈, 컬러 여부, 흑백을 컬러로, 훈련 적합성),
 2. [파이토치 데이터셋](https://pytorch.org/vision/stable/datasets.html)
-3. 
+3. from PIL import Image을 이용해 이미지 사이즈 조절
