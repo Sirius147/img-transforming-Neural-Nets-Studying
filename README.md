@@ -1,31 +1,21 @@
-# unNamedProj1
+# NeuralNetwork Study with img nets
 -------
 
 _self project_
 
-**Design**
 
-목표와 설계를 도식화하기 위한 툴로
-셀프 프로젝트인 만큼 스스로 전체구조를 인식하며 진행하기 위해
-Coggle을 선택
+**Process**
 
-**Theme**
+0. Neural Network 이론 기초 복습 with simple network 구현
+   
+1.AutoEncoder CAE 예제코드 따라치기 및 연습
 
-1.AutoEncoder를 이용한 이미지의 노이즈제거 및 오랜된 이미지 복원
+2. SRCNN /(이미지 화질 개선 신경망) 기존 코드 및 논문 참고 후에 신경망 customize 진행
+   
+   /(pytorch로 신경망 구현 및, 데이터 전처리 과정 python PIL 라이브러리 사용하여 customize 진행
 
-*procedure*
+   신경망 최적화 /(정규화 및 가중치 초기화, 학습률 조정 등)
 
-1. MNIST를 이용한 예제 코드 실행
-2. 이미지 사이즈를 다양화 또는 사진 등을 활용해서 test가능하게
-3. layer 조절로 더 좋은 성능 내기
-4. 여러가지 cutumizing 진행하기
-5. 실제 사진으로 test성공하기
-6. django 공부
-7. 웹에 모델을 연결하고 웹으로 부터 test input을 받기
+   / 실제 현실 데이터를 통한 inference과정 설계 및 실험
 
 
-*idea*
-1. 적절한 데이터셋 선택 (사이즈, 컬러 여부, 흑백을 컬러로, 훈련 적합성),
-2. [파이토치 데이터셋](https://pytorch.org/vision/stable/datasets.html)
-3. from PIL import Image을 이용해 이미지 사이즈 조절
-4. 이미지 크롭핑
