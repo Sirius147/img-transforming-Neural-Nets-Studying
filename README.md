@@ -14,9 +14,11 @@ _self project_
    
    *(pytorch로 신경망 구현 및, 데이터 전처리 과정 python PIL 라이브러리 사용하여 customize 진행*
 
-   *신경망 최적화 /(정규화 및 가중치 초기화, 학습률 조정 등)*
+   *신경망 최적화 (정규화 및 가중치 초기화, 학습률 조정 등)*
 
-    *실제 현실 데이터를 통한 inference과정 설계 및 실험*
+   *실제 현실 데이터를 통한 inference과정 설계 및 실험*
+
+![스크린샷 2024-07-13 190131](https://github.com/user-attachments/assets/d58e5eff-9195-43b8-862c-d05361f1ae0a)
 
     
 
